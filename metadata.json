@@ -1,0 +1,8 @@
+{
+  "name": "Chapter&Verse",
+  "description": "Craft your love story with Chapter&Verse. From first dates to weddings and romantic getaways, let AI guide your journey.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
